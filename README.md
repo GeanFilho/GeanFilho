@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gean Filho</h1>
 <h3 align="center">FullStack Developer Addicted to Learning</h3>
 
-- 🔭 I’m currently working on **NuevoEcom**
+- 🔍 I’m currently looking for new job opportunities.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gean.vercel.app/](https://portfolio-gean.vercel.app/)
 
