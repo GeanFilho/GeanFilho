@@ -31,6 +31,14 @@ Desenvolvedor Full Stack com 3 anos de experiência em produtos web para e-comme
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
+### ⭐ Projetos em destaque
+| Projeto | O que é | Stack |
+|---|---|---|
+| **TikTok Shop Dashboard** 🔒 | Painel de pedidos, GMV e comissões de criadores afiliados, com integração OAuth e sincronização automática (repositório privado) | Next.js, TypeScript, Supabase, Vercel |
+| [**Otimizador de Imagens**](https://github.com/GeanFilho/OtimizadorImagens) · [demo](https://otimizadorimagens.onrender.com/) | Otimiza imagens para a web sem perder qualidade; reduziu o tempo de preparo das páginas de venda | JavaScript, HTML, CSS |
+| [**PulseApp**](https://github.com/GeanFilho/PulseApp) | Monitoramento do clima organizacional: pesquisas semanais e dashboard para gestores | JavaScript, PostgreSQL, Chart.js |
+| [**MindFuel**](https://github.com/GeanFilho/TheMindFuel) | Curadoria comunitária de vídeos para trocar o doomscrolling por conteúdo que importa | Next.js, TypeScript, Supabase |
+
 ### 📈 GitHub
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeanFilho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
