@@ -1,7 +1,7 @@
 <h1 align="center">Gean Filho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;40%2B+apps+em+produ%C3%A7%C3%A3o;Integra%C3%A7%C3%B5es+TikTok+Shop%2C+Shopee%2C+ML%2C+Amazon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;40%2B+apps+entregues;Integra%C3%A7%C3%B5es+TikTok+Shop%2C+Shopee%2C+ML%2C+Amazon" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 ### 🚀 Sobre mim
-Desenvolvedor Full Stack com 3 anos construindo produtos web para e-commerce e marketing de afiliados.
+Desenvolvedor Full Stack com 3 anos de experiência em produtos web para e-commerce e marketing de afiliados.
 
-- 📦 Mantenho **40+ aplicações em produção** para **10+ marcas** de criadores
-- 📊 Construí o dashboard do TikTok Shop que acompanha **R$ 100 mil+ em GMV** (OAuth + sync automático)
+- 📦 Entreguei **40+ aplicações** para **10+ marcas** de criadores
+- 📊 Construí um dashboard do TikTok Shop que chegou a acompanhar **R$ 100 mil+ em GMV** (OAuth + sync automático)
 - 💰 Páginas de venda que geraram **R$ 3M+ em receita** e **+14% de conversão**
 - ⚙️ Automações com n8n e Claude API que cortaram **26% do tempo** de processos manuais
-- 🔍 **Aberto a oportunidades** Full Stack, Front-end ou Back-end
+- 🔍 **Disponível para novas oportunidades**: Full Stack, Front-end ou Back-end (CLT, PJ ou freelance)
 
 ### 🛠️ Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -30,14 +30,6 @@ Desenvolvedor Full Stack com 3 anos construindo produtos web para e-commerce e m
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-### ⭐ Projetos em destaque
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**Nitro Kits**](https://nitro-kits.vercel.app) | Catálogo de 63 kits para vendedores do TikTok Shop | Next.js, TypeScript |
-| [**Reforço com Pet**](https://reforco-five.vercel.app) | App de reforço escolar com mascote virtual | Next.js |
-| [**MindFuel**](https://github.com/GeanFilho/TheMindFuel) | Curadoria comunitária de vídeos contra o doomscrolling | Next.js, Supabase |
-| [**Portfólio**](https://portfolio-gean.vercel.app) | Portfólio bilíngue com métricas reais | Next.js |
 
 ### 📈 GitHub
 <p align="center">
