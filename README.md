@@ -1,7 +1,7 @@
 <h1 align="center">Gean Filho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;40%2B+apps+entregues;Integra%C3%A7%C3%B5es+TikTok+Shop%2C+Shopee%2C+ML%2C+Amazon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;40%2B+apps+entregues;APIs%2C+integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es+com+IA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 </p>
 
 ### 🚀 Sobre mim
-Desenvolvedor Full Stack com 3 anos de experiência em produtos web para e-commerce e marketing de afiliados.
+Desenvolvedor Full Stack com 3 anos de experiência criando aplicações web de ponta a ponta: do front-end ao banco de dados, de dashboards a automações com IA.
 
-- 📦 Entreguei **40+ aplicações** para **10+ marcas** de criadores
+- 📦 Entreguei **40+ aplicações** em produção para **10+ clientes**
 - 📊 Construí um dashboard do TikTok Shop que chegou a acompanhar **R$ 100 mil+ em GMV** (OAuth + sync automático)
 - 💰 Páginas de venda que geraram **R$ 3M+ em receita** e **+14% de conversão**
 - ⚙️ Automações com n8n e Claude API que cortaram **26% do tempo** de processos manuais
